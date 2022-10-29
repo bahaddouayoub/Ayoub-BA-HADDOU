@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/ayoub-ba-haddou-14b641202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub ba-haddou" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16664760/ayoub-ba-haddou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayoub ba-haddou" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ayoubbahaddou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayoub ba-haddou" height="30" width="40" /></a>
-<a href="https://fb.com/ayoub ba-haddou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub ba-haddou" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ayoub.bahaddou.1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub ba-haddou" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
