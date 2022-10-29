@@ -10,9 +10,9 @@
 
  🔭 I’m currently working on **infrastructure as a code project with Terraforme and Ansible**
 
- 🌱 I’m currently learning **Kubernetes,Terraform, Ansible and AWS**
+ 🌱 I’m currently learning **Kubernetes, Terraform, Ansible and AWS**
 
- 💬 Ask me about **Docker,Kuberenetes, Terraforme,Nexus, and Jenkins**
+ 💬 Ask me about **Docker, Kuberenetes, Terraforme, Nexus and Jenkins**
 
  📫 How to reach me **ayoub.bahaddouayoub@gmail.com**
 </div>
