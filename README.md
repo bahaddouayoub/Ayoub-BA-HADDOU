@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <h1 align="center">Hi 👋, I'm BA-HADDOU Ayoub</h1>
-<h3 align="center">A passionate Software Engineer | AWS CLOUD | DevOps Enthusiast | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux and Python from Morroco.</h3>
+<h3 align="center">A passionate Software Engineer | AWS Cloud | DevOps Enthusiast | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux and Python from Morroco.</h3>
   <p align="center"> <a align="center" href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="center" style="width:75%;" src="https://yiion.com/themes/subtheme/images/devops.jpg" alt="Italian Trulli"/>
 
