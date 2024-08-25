@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <h1 align="center">Hi 👋, I'm BA-HADDOU Ayoub</h1>
-<h3 align="center">Cloud and DevOps Engineer | AWS Certified Solutions Architect SAA-C03.</h3>
+<h3 align="center">Cloud and DevOps Engineer | AWS Certified Solutions Architect SAA-C03| Certified Kubernetes Administrator (CKA).</h3>
   <p align="center"> <a align="center" href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="center" style="width:75%;" src="https://yiion.com/themes/subtheme/images/devops.jpg" alt="Italian Trulli"/>
 
